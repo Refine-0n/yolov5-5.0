@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>mp4_010.jpg</filename>
+	<path>G:\A_a资料\lianxi\VOC2007\JPEGImages\mp4_010.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>不可回收水果</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>90</ymin>
+			<xmax>1250</xmax>
+			<ymax>1011</ymax>
+		</bndbox>
+	</object>
+</annotation>
